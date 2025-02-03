@@ -28,6 +28,7 @@ The formatted output will generally contain three parts:
 
 ### Conjugation Table
 - Include conjugation endings needed in finnish and the adverb in english in two colums
+- Indicate if word is verb conjucation or noun conjugation and include the nessecary case 
 
 
 ### Sentence Structure
