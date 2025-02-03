@@ -7,7 +7,7 @@ The GPT-4 model running with 175 billion parameters.
 
 ## Prompting Guides
 
-OpenAI Prompting Guide:
+### OpenAI Prompting Guide:
 
 [OpenAI Prompting Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 
@@ -28,3 +28,12 @@ OpenAI Prompting Guide:
 
 #### [Tactic: Provide examples](https://platform.openai.com/docs/guides/prompt-engineering#tactic-provide-examples)
 - Create both negative and positive examples in an example document to make the response fit better in the required style.
+
+
+
+### [AiFire.co Guide](https://www.aifire.co/p/top-ai-cheatsheets-2024#43-master-chat-gpt-prompt-guide)
+![AI Fire Master Chatgpt prompt guide](image.png)
+
+- Can add Tone to persona for more friendly learning enviorment
+- Visual Elements: Can remind Chatgpt to not use emojis but reinforce tables when wanted
+- "objective" - define what the wanted outcome definitely
