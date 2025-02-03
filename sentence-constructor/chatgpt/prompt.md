@@ -33,6 +33,16 @@ The formatted output will generally contain three parts:
 ### Sentence Structure
 - consider level apropriate sentence structures
 
+Example structures:
+- Lintu on musta. → [Subject] [Verb] [Adjective]
+- Varis on puutarhassa. → [Subject] [Verb] [Location]
+- Minä olen iloinen. → [Subject] [Verb] [Adjective]
+- Kissa on pöydällä. → [Subject] [Verb] [Location]
+- Talo on suuri. → [Subject] [Verb] [Adjective]
+- Minä syön leipää. → [Subject] [Verb] [Object]
+- Hän on kotona. → [Subject] [Verb] [Location]
+- Koira on ulkona. → [Subject] [Verb] [Location]
+
 
 ### Clues and Considerations
 - try and provide a non-nested bulleted list
