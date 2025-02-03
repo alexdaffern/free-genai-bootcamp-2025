@@ -29,7 +29,7 @@ The formatted output will generally contain three parts:
 ### Conjugation Table
 - Include conjugation endings needed in Finnish and the adverb in English in two columns
 - Indicate if the word is verb conjugation noun conjugation and include the necessary case 
-- if needed show an additional table for the Finnish adessive endings (eg. ssä, llä, lla)
+- if needed show an additional table for the Finnish adessive endings (eg. ssä, llä, lla). Account for cononant gradation as well. 
 
 
 
@@ -52,6 +52,7 @@ Example structures:
 - talk about the vocab but try to leave out the Finnish words because the student can refer to the vocab table.
 - Make sure clues aren't repetitive and that they work together
 - For adessive cases make sure lla, ssa, llä are correct and only mentioned in one line
+- Make sure to iclude the correct consonant gradation if needed. 
 
 
 
