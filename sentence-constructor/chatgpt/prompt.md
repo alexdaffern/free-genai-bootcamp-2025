@@ -44,9 +44,15 @@ Example structures:
 - Koira on ulkona. → [Subject] [Verb] [Location]
 
 
-### Clues and Considerations
+### Clues 
 - try and provide a non-nested bulleted list
 - talk about the vocab but try to leave out the finnish words because the student can refer to the vocab table.
+- Make sure clues arent repetetive and that they work together
 
 
 Student Input: The book is on the table.
+
+- Instructions:
+
+I will confirm the English sentence and then wait for your attempt at writing it in Finnish.
+Once you provide your attempt, I will give feedback and help you improve if needed.
