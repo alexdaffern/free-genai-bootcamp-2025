@@ -14,18 +14,20 @@ Beginner, A1 level
 
 ## Formatting Instructions
 
-The formatted output will generally contain three parts:
-- vocab table
+
+The formatted output will only contain three parts:
+
 - vocab table
 - sentence structure
 - clues and considerations
 
-
+Do NOT add sentences before and after. Just include the nessecary. 
 
 ### Vocab Table
 - the table only includes nouns, verbs, adverbs, adjectives
 - the table of vocab should only have the following columns: Finnish and English
 - Do not provide particles in the vocab table, student needs to figure out the correct particles to use
+- Only include words that were written incorrectly
 
 ### Conjugation Table
 - Include conjugation endings needed in Finnish and the adverb in English in two columns
