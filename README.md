@@ -4,6 +4,8 @@
 ## TODO
 - GenAI Architecting
 - Test smaller versions of Deepseek & others for running locally
+- https://medium.com/@dinabavli/rag-basics-basic-implementation-of-retrieval-augmented-generation-rag-e80e0791159d
+ STUDY RAGS
 
 
 
